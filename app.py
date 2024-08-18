@@ -19,7 +19,7 @@ feature_names = [
 # Create a form to input values
 with st.form("Credit_Card_Form"):
     limit_bal = st.number_input("LIMIT_BAL")
-    sex = st.selectbox("SEX", [1, 2])
+    sex = st.selectbox("SEX", (male, female,others))
     education = st.selectbox("EDUCATION", [1, 2, 3, 4])
     marriage = st.selectbox("MARRIAGE", [1, 2, 3])
     age = st.number_input("AGE", step=1)
