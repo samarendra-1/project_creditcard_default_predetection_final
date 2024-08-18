@@ -4,7 +4,7 @@ import pickle
 
 # Load model
 model = pickle.load(open('model.pkl', 'rb'))
-model = pickle.load(file)
+
 
 
 # Streamlit app
