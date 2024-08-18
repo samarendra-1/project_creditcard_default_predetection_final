@@ -3,7 +3,7 @@
 
 - [Project_Link] (https://projectcreditcardfrauddetectionfinalsamarendra-rout.streamlit.app/)
 
-- [LinkedIn] (https://www.linkedin.com/in/govind-kumar-97aa07235)
+
   
 ## About The Project
 
@@ -56,16 +56,8 @@ Dataset Source Link : ```https://www.kaggle.com/datasets/uciml/default-of-credit
  - Matplotlib
  - streamlit
 
-## License
-
-Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 
-## Contact
-
-Govind Vishwakarma - Govind26663355@gmail.com
 
 
-## Acknowledgements
 
-We'd like to extend our gratitude to all individuals and organizations who have played a role in the development and success of this project. Your support, whether through contributions, inspiration, or encouragement, has been invaluable. Thank you for being a part of our journey.
